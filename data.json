@@ -1,0 +1,65 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "Randomly loads a preset quote each time the button is clicked in random order.",
+        "technologies": ["HTML", "JS"],
+        "live_link": "https://nulltamer.github.io/1-Random-Quote-Generator/",
+        "github_link": "https://github.com/NullTamer/1-Random-Quote-Generator",
+        "image_urls": [
+          "/static/images/project-1/Project1.jpg",
+          "/static/images/project-1/Project1IMG.jpg"
+        ]
+      },
+      {
+        "id": 1,
+        "project_name": "Data Pagination and Filtering",
+        "description": "Generates a grid of 9 random students with basic information. The option to scroll through pages to view other sets of students is available.",
+        "technologies": ["HTML", "JS"],
+        "live_link": "https://nulltamer.github.io/2-Data-Pagination-and-Filtering/",
+        "github_link": "https://github.com/NullTamer/2-Data-Pagination-and-Filtering",
+        "image_urls": [
+          "/static/images/project-2/Project2.jpg",
+          "/static/images/project-2/Project2IMG.jpg"
+        ]
+      },
+  
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "Creation of a form with toggle elements and simple operations, with the framework for submission.",
+        "technologies": ["HTML", "JS"],
+        "live_link": "https://nulltamer.github.io/3-Interactive-Form/",
+        "github_link": "https://github.com/NullTamer/3-Interactive-Form",
+        "image_urls": [
+          "/static/images/project-3/Project3.jpg",
+          "/static/images/project-3/Project3IMG.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "project_name": "Phrase Hunter",
+        "description": "Randomly loads a preset phrase that is hidden. The user is allowed multiple attempts at guessing the phrase letter by letter. If the phrase is completed before lives run out, victory is achieved.",
+        "technologies": ["HTML", "JS"],
+        "live_link": "https://nulltamer.github.io/4-OOP-Game-Show-App/",
+        "github_link": "https://github.com/NullTamer/4-OOP-Game-Show-App",
+        "image_urls": [
+          "/static/images/project-4/Project4.jpg",
+          "/static/images/project-4/Project4IMG.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "project_name": "Public API Requests",
+        "description": "Generates a grid of 12 users, with the functinality to invoke an overlay modal for more specific information",
+        "technologies": ["HTML", "JS", "API"],
+        "live_link": "https://nulltamer.github.io/5-Public-API-Requests/",
+        "github_link": "https://github.com/NullTamer/5-Public-API-Requests",
+        "image_urls": [
+          "/static/images/project-5/Project5.jpg",
+          "/static/images/project-5/Project5IMG.jpg"
+        ]
+      }
+    ]
+  }
